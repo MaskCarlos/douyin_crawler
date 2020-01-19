@@ -8,6 +8,7 @@ $post = [
     "type"   => "crawler_search_user",
     "search" => "面膜",
     "num"    => 20,
+    "task"   => ["user_token"=>"deb783c7418428601e63f5df23ba4519"]
 ];
 
 $api = "https://service.yundou.me/";
